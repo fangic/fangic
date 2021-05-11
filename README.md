@@ -1,5 +1,5 @@
-Hello 😃 my name is Cláudio António Matos da Silva Ramos and i'm a 3rd year Computer Engineering student, you can follow or contact me 
-through this social networks.
+Hello 😃 my name is Cláudio António Matos da Silva Ramos and i'm a 3rd year Computer Engineering student.
+You can follow me or contact me through this social networks.
 
 <a href="https://www.linkedin.com/in/claudioamsramos/"><img align="left" alt="Tiago | Linkedin" width="24px"                            src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" /></a>
 
@@ -10,6 +10,8 @@ through this social networks.
 <a href="https://discord.gg/eT89Qust"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="32px" height="26px"/></a>
 
 <img scr="https://corbitlibrary.org/wp-content/uploads/2016/12/Line.jpg"/>
+
+
 
 
 
