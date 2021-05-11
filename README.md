@@ -9,9 +9,9 @@ You can follow me or contact me through this social networks.
 
 <a href="https://discord.gg/eT89Qust"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="32px" height="26px"/></a>
 
+<br>
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-
+<br>
 
 
 ### Frontend
