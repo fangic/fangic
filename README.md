@@ -10,6 +10,7 @@ Hello, my name is Cláudio António Matos da Silva Ramos and I'm a 3rd year Comp
 
 <a href="https://discord.gg/eT89Qust"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="32px" height="26px"/></a>
 
+<img scr="https://corbitlibrary.org/wp-content/uploads/2016/12/Line.jpg"/>
 <br>
 
 
