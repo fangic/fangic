@@ -1,4 +1,4 @@
-Hello 😃
+Hello 😃 my name is Cláudio António Matos da Silva Ramos and I'm a 3rd year Computer Engineering student, and you can follow or contact me threw this social networks.
 
 <a href="https://www.linkedin.com/in/claudioamsramos/"><img align="left" alt="Tiago | Linkedin" width="24px"                            src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" /></a>
 
@@ -7,10 +7,6 @@ Hello 😃
 <a href="mailto:claudioamsramos@hotmail.com"><img align="left" alt="Cláudio | Gmail" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" /></a>
 
 <a href="https://discord.gg/eT89Qust"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="32px" height="26px"/></a>
-
-<img scr="https://corbitlibrary.org/wp-content/uploads/2016/12/Line.jpg"/>
-
-My name is Cláudio António Matos da Silva Ramos and I'm a 3rd year Computer Engineering student.
 
 <img scr="https://corbitlibrary.org/wp-content/uploads/2016/12/Line.jpg"/>
 
