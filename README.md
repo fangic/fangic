@@ -39,5 +39,6 @@ You can follow me or contact me through this social networks.
 
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 <br>
-
-<a ![Cláudio Ramos's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangic&theme=react&show_icons=true&hide_border=true) align="left"/></a>
+<p align="center">
+![Cláudio Ramos's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangic&theme=react&show_icons=true&hide_border=true)
+</p>
