@@ -1,4 +1,5 @@
-Hello 😃 my name is Cláudio António Matos da Silva Ramos and I'm a 3rd year Computer Engineering student, and you can follow or contact me threw this social networks.
+Hello 😃 my name is Cláudio António Matos da Silva Ramos and i'm a 3rd year Computer Engineering student, you can follow or contact me 
+through this social networks.
 
 <a href="https://www.linkedin.com/in/claudioamsramos/"><img align="left" alt="Tiago | Linkedin" width="24px"                            src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" /></a>
 
