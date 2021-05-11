@@ -22,6 +22,10 @@ Hello, my name is Cláudio António Matos da Silva Ramos and I'm a 3rd year Comp
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse]
+![Notepad++]
+![PyCharm]
+![Anaconda]
+![PhpStorm]
 
 ### Deploy
 
